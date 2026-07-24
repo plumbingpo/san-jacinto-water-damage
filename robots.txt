@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sanjacintorestoration.com/sitemap.xml
